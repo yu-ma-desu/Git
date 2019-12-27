@@ -3,3 +3,4 @@ GitHubから
 別から
 ブランチから
 解決
+confrict
